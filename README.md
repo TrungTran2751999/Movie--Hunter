@@ -95,6 +95,6 @@
     <li>Link bộ phim</li>
   </ul>
 <p align="center"><img width=500px src="https://res.cloudinary.com/da6h8op5l/image/upload/v1681357902/module-3/update-movie_zhoayo.png"></p>
-<p align="center">Hình 1.3. Trang cập nhật thông tin phim thuộc loại Series<p>
+<p align="center">Hình 1.3. Trang cập nhật thông tin phim thuộc loại Movie<p>
 </ul>
 </ul>
