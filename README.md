@@ -102,6 +102,9 @@
 <p>Client có các chức năng chính: </p>
 <ul>
   <li>Hiển thị danh sách các bộ phim</li>
-  <p align="center"><img width=500px src="https://res.cloudinary.com/da6h8op5l/image/upload/v1681357933/module-3/mainpage_aiik3p.png"></p>
-  <p align="center">Hình 2.1. Trang chủ Client<p>
+    <p align="center"><img width=500px src="https://res.cloudinary.com/da6h8op5l/image/upload/v1681357933/module-3/mainpage_aiik3p.png"></p>
+    <p align="center">Hình 2.1. Trang chủ Client<p>
+  <li>Xem phim</li>
+    <p align="center"><img width=500px src="https://res.cloudinary.com/da6h8op5l/image/upload/v1681357905/module-3/trang-xem-phim_uvfpg7.png"></p>
+    <p align="center">Hình 2.2. Trang xem phim<p>
 </ul>
