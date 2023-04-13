@@ -98,7 +98,7 @@
 <p align="center">Hình 1.8. Trang cập nhật thông tin phim thuộc loại Movie<p>
 </ul>
 </ul>
-<h3>2. Clients</h3>
+<h3>2. Client</h3>
 <p>Client có các chức năng chính: </p>
 <ul>
   <li>Hiển thị danh sách các bộ phim</li>
