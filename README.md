@@ -75,7 +75,7 @@
   <li>Ngày cập nhật</li>
 </ul>
 <p align="center"><img width=500px src="https://res.cloudinary.com/da6h8op5l/image/upload/v1681357902/module-3/trang-quan-ly-movie_hcln93.png"></p>
-<p align="center">Hình 1.1. Trang quản lý thông tin các bộ phim thuộc loại Movie<p>
+<p align="center">Hình 1.6. Trang quản lý thông tin các bộ phim thuộc loại Movie<p>
 <p>Movie có các chức năng chính: </p>
 <ul>
   <li>Thêm phim mới với các thông tin: </li>
@@ -85,7 +85,7 @@
     <li>Link bộ phim</li>
   </ul>
 <p align="center"><img width=500px src="https://res.cloudinary.com/da6h8op5l/image/upload/v1681368737/module-3/trang-tao-moi-movie_jtfos1.png"></p>
-<p align="center">Hình 1.2. Trang tạo thông tin phim thuộc loại Movie<p>
+<p align="center">Hình 1.7. Trang tạo thông tin phim thuộc loại Movie<p>
 </ul>
 <ul>
   <li>Cập nhật thông tin phim : </li>
@@ -95,6 +95,13 @@
     <li>Link bộ phim</li>
   </ul>
 <p align="center"><img width=500px src="https://res.cloudinary.com/da6h8op5l/image/upload/v1681357902/module-3/update-movie_zhoayo.png"></p>
-<p align="center">Hình 1.3. Trang cập nhật thông tin phim thuộc loại Movie<p>
+<p align="center">Hình 1.8. Trang cập nhật thông tin phim thuộc loại Movie<p>
 </ul>
+</ul>
+<h3>2. Clients</h3>
+<p>Client có các chức năng chính: </p>
+<ul>
+  <li>Hiển thị danh sách các bộ phim</li>
+  <p align="center"><img width=500px src="https://res.cloudinary.com/da6h8op5l/image/upload/v1681357933/module-3/mainpage_aiik3p.png"></p>
+  <p align="center">Hình 2.1. Trang chủ Client<p>
 </ul>
